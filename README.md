@@ -1,2 +1,2 @@
 # Trader-Bot
-An automates paper trading bot
+An automated paper trading bot
